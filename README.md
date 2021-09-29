@@ -1,2 +1,3 @@
 # Quiz on IronMan
- Here I made quiz on Heart of Marvel "The IronMan" by using Vanila JS.
+
+A CLI app made using NodeJS to play fun quiz which let you knowledge about your favourite chracter of Marvel "The IronMan".
